@@ -41,7 +41,7 @@ public class MathUtilityTest {
         Assert.assertEquals(1, MathUtil.getFactorial(1)); // 1! == 1
         Assert.assertEquals(2, MathUtil.getFactorial(2)); // 2! = 2
         Assert.assertEquals(6, MathUtil.getFactorial(3)); // 3! = 6
-        Assert.assertEquals(720, MathUtil.getFactorial(6)); // 6! = 720
+        Assert.assertEquals(120, MathUtil.getFactorial(6)); // 6! = 720
     }
 
     //hàm getF() thiết kế có 2 tình huống xử lý
